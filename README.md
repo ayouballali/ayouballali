@@ -4,10 +4,10 @@
 
 
 
-- 🌱 I’m currently learning new technologies node js, aws ,angular js **
+- 🌱 I’m currently learning new technologies : **  spring security, mern stack, python, aws ,angular js **
 
 
-
+- 💬 Ask me about : ** spring , express, mongoDB, java, php, machine learning**
 
 - 📫 How to reach me **ayoubralali@gmail.com**
 ### ⚙️ &nbsp;GitHub Analytics
