@@ -24,7 +24,7 @@
 <p align="left">
 
 <a href="https://twitter.com/AyoubAllali18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mons74148412" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayouballali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmahalli-zakaria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayouballali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmahalli-zakaria" height="29" width="40" /></a>
 <a href="https://ayouballali.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zakaria-elmahalli1.medium.com/" height="30" width="40" /></a>
 </p>
 
